@@ -11,11 +11,7 @@ Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Te
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+## Time Line
 
 Year | Award | Category
 -----|-------|--------

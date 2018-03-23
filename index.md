@@ -10,10 +10,6 @@ Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Te
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
 
@@ -27,10 +23,8 @@ Year | Award | Category
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
+## Publications
 
-Here is a blockquote
-
-> To a great mind, nothing is little
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London

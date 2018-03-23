@@ -27,3 +27,4 @@ Year | Organization | Description
 4. Thelen, B. T., Xique, I. J., Burns, J. W., Goley, G. S., Nolan, A. R., & Benson, J. W. (2017). A novel latent gaussian copula framework for modeling spatial correlation in quantized SAR imagery with applications to ATR (Vol. 10201, pp. 102010G–10201–10). Retrieved from https://doi.org/10.1117/12.2267833
 5. J. W. Burns, N. S. Subotic, B. J. Thelen, M. P. Masarik and I. J. Xique, "Decomposition approaches to separate clutter/background from buried object signatures," 2017 International Conference on Electromagnetics in Advanced Applications (ICEAA), Verona, 2017, pp. 1909-1912.
 doi: 10.1109/ICEAA.2017.8065680
+6. Thelen, B. J., Xique, I. J., Burns, J. W., Goley, G. S., Nolan, A. R., & Benson, J. W. (2017). Divergences and estimating tight bounds on Bayes error with applications to multivariate Gaussian copula and latent Gaussian copula (Vol. 10201, pp. 102010N–10201–12). Retrieved from https://doi.org/10.1117/12.2267834

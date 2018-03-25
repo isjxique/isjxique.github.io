@@ -6,12 +6,10 @@ layout: default
 
 <img class="profile-picture" src="profile_pic.jpeg">
 
-During the week, I work as a research scientist at MTRI where I develop and implement mathematical models to measure and improve the performance of systems using RADAR, LIDAR, and optical sensor data. During the weekend, I work with a group of full stack web developers to build applications for Detroit area organizations.
-
 I am passionate about machine learning and web development and am actively seeking ways to work on projects to
-fuse these two passions.
+fuse these two passions. I also enjoy exercising and reading science fiction books.
 
-Outside of this I like to exercise and enjoy.
+During the week, I work as a research scientist at MTRI where I develop and implement mathematical models to measure and improve the performance of systems using RADAR, LIDAR, and optical sensor data. During the weekend, I work with a group of full stack web developers to build applications for Detroit area organizations.
 
 ## Timeline
 

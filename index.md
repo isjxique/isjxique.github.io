@@ -18,8 +18,8 @@ Year | Organization | Description
 2015-Present | Michigan Tech Research Institute | Research Scientist
 2013-2015 | University of Michigan | Masters in Applied Mathematics
 2009-2013 | Bowdoin College | Bachelors in Mathematics and Economics
-2010 | The Children's Aid Society of New York| Internship (department)
-2009 | The New York Times | Internship (department)
+2010 | The Children's Aid Society of New York| Internship (Community Schools)
+2009 | The New York Times | Internship (Information Technology)
 
 ## Publications
 

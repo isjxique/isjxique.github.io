@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pic.jpeg">
 
-I am research scientist at MTRI where I develop and implement mathematical models to measure and improve the performance of systems using RADAR, LIDAR, and optical sensor data. During the weekend, I work with a group of full stack web developers to build applications for Detroit area organizations.
+I am a research scientist at MTRI where I develop and implement mathematical models to measure and improve the performance of systems using RADAR, LIDAR, and optical sensor data. During the weekend, I work with a group of full stack web developers to build applications for Detroit area organizations.
 
 I am passionate about machine learning and web development and am actively seeking ways to work on projects to
 fuse these two passions. I enjoy hanging out on the beach and reading science fiction books.

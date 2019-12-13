@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pic.jpeg">
 
-I am a research scientist at MTRI where I develop and implement mathematical models using scientific computing tools to tackle problems involving electromagnetic sensor data. In my free time, I also enjoy building applications for Detriot area organizations with a group of full stack web developers,reading a good book, and hitting the beach.
+I am a Research Scientist/Engineer at MTRI where I develop and implement algorithms using scientific computing tools to tackle problems involving perception, intellegence, and system performance evaluation. In my free time, I also enjoy building web applications for Detriot area organizations with a group of full stack developers, reading a good book, and hitting the beach.
 
 ## Timeline
 

@@ -6,13 +6,15 @@ layout: default
 
 <img class="profile-picture" src="profile_pic.jpeg">
 
-I am a Research Scientist/Engineer at MTRI where I develop and implement algorithms using scientific computing tools to tackle problems involving perception, intelligence, and system performance evaluation. In my free time, I also enjoy building web applications for Detriot area organizations with a group of full stack developers, reading a good book, and hitting the beach.
+I am a former Research Scientist/Engineer at MTRI where I developed and implemented algorithms using scientific computing tools to tackle projects involving perception, intelligence, and system performance. I am currently an MBA student at MIT Sloan and am actively pivoting into Product Managment. I'm passionate about delivering innovative and intuitive experiences to customers through empathy and design. In my free time, I also enjoy building web applications for Detriot area organizations with a group of full stack developers, reading a good book, and walking on the beach.
 
 ## Timeline
 
 | Year         | Organization                           | Description                            |
 | ------------ | -------------------------------------- | -------------------------------------- |
-| 2015-Present | Michigan Tech Research Institute       | Research Scientist/Engineer            |
+| 2022         | Amazon Web Services (AWS) - S3 Team    | Sr. Product Manager Technical Intern   |
+| 2021-Present | MIT Sloan School Of Business           | MBA - Product Management               |
+| 2015-2021    | Michigan Tech Research Institute       | Research Scientist/Engineer            |
 | 2013-2015    | University of Michigan                 | Masters in Applied Mathematics         |
 | 2009-2013    | Bowdoin College                        | Bachelors in Mathematics and Economics |
 | 2010         | The Children's Aid Society of New York | Internship                             |
